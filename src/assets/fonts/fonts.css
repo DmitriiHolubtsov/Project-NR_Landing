@@ -1,0 +1,15 @@
+@font-face {
+  font-family: "Roc-Grotesk-Regular";
+  src: url("./regular/Roc-Grotesk-Regular.eot");
+  src: url("./regular/Roc-Grotesk-Regular.woff") format("woff"),
+    url("./regular/Roc-Grotesk-Regular.ttf") format("truetype"),
+    url("./regular/Roc-Grotesk-Regular.svg") format("svg");
+}
+
+@font-face {
+  font-family: "Roc-Grotesk-Bold";
+  src: url("./bold/Roc-Grotesk-Bold.eot");
+  src: url("./bold/Roc-Grotesk-Bold.woff") format("woff"),
+    url("./bold/Roc-Grotesk-Bold.ttf") format("truetype"),
+    url("./bold/Roc-Grotesk-Bold.svg") format("svg");
+}
